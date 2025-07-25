@@ -16,10 +16,10 @@ You need to use the task class `Search.Task.Search` to create a scheduled task a
 (`tip:` Perform a scheduled task before the visit to obtain the search criteria of the drop-down list)
 
 
-![[0.png]]
+![0](https://github.com/Sara771dev/iris-message-search/blob/main/images/0.png)
 
 
-![[1.png]]
+![1](https://github.com/Sara771dev/iris-message-search/blob/main/images/1.png)
 
 
 ---

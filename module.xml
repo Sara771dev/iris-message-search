@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Export generator="Cache" version="25">
+  <Document name="iris-message-search.ZPM">
+    <Module>
+      <Name>iris-message-search</Name>
+      <Version>1.0.0</Version>
+      <Packaging>module</Packaging>
+      <Resource Name="Search.PKG"/>
+      <LifecycleClass>%IPM.Lifecycle.Module</LifecycleClass>
+      <SourcesRoot>src</SourcesRoot>
+    </Module>
+  </Document>
+</Export>

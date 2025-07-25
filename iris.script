@@ -1,0 +1,4 @@
+     zn "USER"
+     zpm "load /home/irisowner/dev"
+     d ##class(Search.Util.Search).Task("Get SearchColumn","Search.Task.Search","00:00:00")
+     halt
